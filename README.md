@@ -1,0 +1,1 @@
+# devops-recipe-change-argocd-admin-password
